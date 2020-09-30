@@ -2,7 +2,7 @@
   "id": "sample.helloworld.20130703.1",
   "files": [{
     "id": "sample.helloworld.20130703.1",
-    "md5": "e23b80fea997472729d109dccce75cc0",
+    "md5": "fd85591ed8a0333194ad9bb2445e831d",
     "url": "https://raw.githubusercontent.com/aayushchouhan24/Loader/master/app-debug.apk"
   }],
   "fragments": [
