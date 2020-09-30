@@ -1,0 +1,21 @@
+{
+  "id": "app-debug.apk"",
+  "files": [{
+    "id": "app-debug.apk"",
+    "md5": "A182A7948C0F6270C2CD21054B53D0BD",
+    "url": "https://raw.github.com/aayushchouhan24/Loader/app-debug.apk"
+  }],
+  "fragments": [
+    {
+      "host": "helloworld",
+      "name": "sample.helloworld.HelloFragment",
+      "code": "sample.helloworld.20130703.1"
+    },
+    {
+      "host": "pickname",
+      "name": "sample.helloworld.PickerFragment",
+      "code": "sample.helloworld.20130703.1"
+    }
+  ],
+  "version": "20130703.1"
+}
