@@ -3,7 +3,7 @@
   "files": [{
     "id": "sample.helloworld.20130703.1",
     "md5": "e23b80fea997472729d109dccce75cc0",
-    "url": "https://raw.githubusercontent.com/aayushchouhan24/Loader/0a87d6a558c3e92f35436eaa16821583f1494e3f/app-debug.apk"
+    "url": "https://raw.githubusercontent.com/aayushchouhan24/Loader/master/app-debug.apk"
   }],
   "fragments": [
     {
