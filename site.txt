@@ -3,7 +3,7 @@
   "files": [{
     "id": "sample.helloworld.20130703.1",
     "md5": "69d3d81fa8cc5f05f1daab16dae89f4c",
-    "url": "https://raw.github.com/mmin18/AndroidDynamicLoader/master/site/helloworld/sample.helloworld.20130703.1.apk"
+    "url": "https://raw.githubusercontent.com/aayushchouhan24/Loader/0a87d6a558c3e92f35436eaa16821583f1494e3f/app-debug.apk"
   }],
   "fragments": [
     {
